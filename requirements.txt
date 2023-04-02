@@ -1,0 +1,11 @@
+fqdn==1.5.1
+isoduration==20.11.0
+jsonpointer==2.3
+jupyter==1.0.0
+plotly==5.14.0
+pymongo==4.3.3
+scikit-learn==1.2.2
+seaborn==0.12.2
+statsmodels==0.13.5
+uri-template==1.2.0
+webcolors==1.13
